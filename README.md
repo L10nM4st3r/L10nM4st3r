@@ -1,0 +1,3 @@
+- 👋 Hello, I’m @L10nM4st3r
+- 👀 I’m interested in coding, the Godot game engine, and video games
+- 📫 How to reach me: My username on discord is ``l10nm4st3r``
